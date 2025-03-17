@@ -1,0 +1,7 @@
+body{
+    background-color: rgb(85, 62, 62);
+    animation: alternate;
+    border: 20px;
+    cursor: crosshair;
+   
+}
