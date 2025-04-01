@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfólio</title>
-    <link href="style.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
   </head>
   <body>
     <div class="container">
@@ -30,20 +30,34 @@
         <div id="sobre" class="tab-content active">
           <h1>Sobre</h1>
           <p>Quem sou eu.</p>
+          <p>
+            Olá, me chamo Gabriel Tomita e sou estudante do terceiro ano do
+            curso de Engenharia Software no IFPR - Campus Paranavaí.
+          </p>
         </div>
 
         <div id="habilidades" class="tab-content">
           <h1>Habilidades</h1>
           <p>Descrição das minhas principais habilidades.</p>
+          <p>
+            Sou um estudante de Engenharia de Software com experiência em
+            desenvolvimento web, incluindo HTML, CSS e JavaScript. Tenho
+            conhecimento em Python e Java, além de habilidades em banco de dados
+            SQL. Estou sempre buscando aprender novas tecnologias e aprimorar
+            minhas habilidades.
+          </p>
         </div>
 
         <div id="projetos" class="tab-content">
           <h1>Projetos</h1>
           <p>Lista dos projetos realizados.</p>
+          <a href="https://github.com/tomitaaa">Meu GitHub</a>
         </div>
         <div id="contato" class="tab-content">
           <h1>Contato</h1>
           <p>Meus meios para eventual contato.</p>
+          <p>E-mail: gabrieltomita@hotmail.com</p>
+          <p>Telefone: 12345-6789</p>
         </div>
       </main>
 
@@ -52,13 +66,6 @@
       </footer>
     </div>
 
-    <script>
-      function openTab(tabName) {
-        let contents = document.querySelectorAll(".tab-content");
-        contents.forEach((content) => content.classList.remove("active"));
-
-        document.getElementById(tabName).classList.add("active");
-      }
-    </script>
+    <script src="js/index.js"></script>
   </body>
 </html>
