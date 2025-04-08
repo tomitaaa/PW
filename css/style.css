@@ -1,34 +1,37 @@
-body{
-    .container {
-        width: 1200px;
-        margin: 0 auto;
-        border-radius: 10px;
-        box-shadow: 0 0 10px gray;
-        padding: 20px;
-      }
-      .tabs {
-        display: flex;
-        justify-content: center;
-        margin-bottom: 20px;
-      }
-      .tab-button {
-        background-color: #ff4444;
-        color: white;
-        border: none;
-        padding: 10px 20px;
-        margin: 5px;
-        cursor: pointer;
-        font-size: 18px;
-        border-radius: 5px;
-      }
-      .tab-button:hover {
-        background-color: #cc0000;
-      }
-      .tab-content {
-        display: none;
-      }
-      .active {
-        display: block;
-      }
-   
+@import url("variable.css");
+
+body {
+  .container {
+    width: 1200px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+    padding: 20px;
+    background-color: var(--bg-color-body);
+    color: var(--text-color);
+  }
+  .tabs {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  .tab-button {
+    background-color: #ff4444;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  .tab-button:hover {
+    background-color: #cc0000;
+  }
+  .tab-content {
+    display: none;
+  }
+  .active {
+    display: block;
+  }
 }
