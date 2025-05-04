@@ -4,6 +4,19 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfólio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
     <link href="css/style.css" rel="stylesheet" />
   </head>
   <body data-theme="light">
@@ -39,19 +52,18 @@
         >
           Contato
         </button>
-        <button
-          id="btAlterarTema"
-          class="btAlterarTema"
-          onClick="alterarTema()"
-        >
-          Modo Light
+
+        <button id="btAlterarTema" class="theme-button" onClick="alterarTema()">
+          <i class="fas fa-moon" id="theme-icon"></i>
+          <span id="theme-text">Modo Escuro</span>
         </button>
+
         <button
           aria-label="Botão para alterar o idioma"
           onclick="alterarIdioma()"
-          aria
+          class="language-button"
         >
-          Idioma
+          <i class="fas fa-globe"></i> <span id="language-text">Idioma</span>
         </button>
       </nav>
 
@@ -96,9 +108,9 @@
         </div>
       </main>
 
-      <footer>
+      <!-- <footer>
         <section data-i18n="links-importantes">Links importantes</section>
-      </footer>
+      </footer> -->
     </div>
 
     <script src="js/index.js"></script>
