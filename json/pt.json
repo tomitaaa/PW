@@ -1,5 +1,16 @@
 {
-   "sobre":"Olá, me chamo Gabriel Tomita e sou estudante do terceiro ano do curso de Engenharia Software no IFPR - Campus Paranavaí.",
-   "sobre1":"Sobre"
-
-}
+   "sobre-titulo": "Sobre",
+   "sobre-quem-sou": "Quem sou eu?",
+   "sobre-descricao": "Olá, me chamo Gabriel Tomita e sou estudante do terceiro ano do curso de Engenharia Software no IFPR - Campus Paranavaí.",
+   "habilidades-titulo": "Habilidades",
+   "habilidades-descricao-principal": "Descrição das minhas principais habilidades.",
+   "habilidades-lista": "Sou um estudante de Engenharia de Software com experiência em desenvolvimento web, incluindo HTML, CSS e JavaScript. Tenho conhecimento em Python e Java, além de habilidades em banco de dados SQL. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.",
+   "projetos-titulo": "Projetos",
+   "projetos-descricao": "Lista dos projetos realizados.",
+   "meu-github": "Meu GitHub",
+   "contato-titulo": "Contato",
+   "contato-descricao": "Meus meios para eventual contato.",
+   "email": "E-mail:",
+   "telefone": "Telefone:",
+   "links-importantes": "Links importantes"
+ }

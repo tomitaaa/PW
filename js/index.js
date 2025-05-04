@@ -21,7 +21,7 @@ function carregarIdioma(idioma) {
       const chave = elemento.getAttribute("data-i18n");
 
       if (Linguagem[chave]) {
-        elemento.textContent = Linguagem[chave];
+        elemento.innerHTML = Linguagem[chave];
       }
     });
 
