@@ -1,16 +1,18 @@
 {
-    "sobre-titulo": "About",
-    "sobre-quem-sou": "Who Am I?",
-    "sobre-descricao": "Hello, my name is Gabriel Tomita and I am a third-year student of the Software Engineering course at IFPR - Campus Paranavaí.",
-    "habilidades-titulo": "Skills",
-    "habilidades-descricao-principal": "Description of my main skills.",
-    "habilidades-lista": "I am a Software Engineering student with experience in web development, including HTML, CSS, and JavaScript. I have knowledge in Python and Java, as well as skills in SQL databases. I am always looking to learn new technologies and improve my skills.",
-    "projetos-titulo": "Projects",
-    "projetos-descricao": "List of the projects carried out.",
-    "meu-github": "My GitHub",
-    "contato-titulo": "Contact",
-    "contato-descricao": "My means for eventual contact.",
-    "email": "E-mail:",
-    "telefone": "Phone:",
-    "links-importantes": "Important links"
-  }
+  "sobre-titulo": "About",
+  "sobre-quem-sou": "Who Am I?",
+  "sobre-descricao-inicial": "Hello, my name is Gabriel Tomita and I am a third-year student of the Software Engineering course at IFPR - Campus Paranavaí. <br>I created this portfolio to present my projects and skills as an activity for the Web Development course.</br> <br>Education:",
+  "sobre-escolaridade-medio": "IFPR - Instituto Federal do Paraná - Technical in Computer Science integrated with High School",
+  "sobre-escolaridade-superior": "IFPR - Instituto Federal do Paraná - Graduation in Software Engineering (in progress)",
+  "habilidades-titulo": "Skills",
+  "habilidades-descricao-principal": "Description of my main skills.",
+  "habilidades-lista": "I am a Software Engineering student with experience in web development, including HTML, CSS, and JavaScript. I have knowledge in Python and Java, as well as skills in SQL databases. I am always looking to learn new technologies and improve my skills.",
+  "projetos-titulo": "Projects",
+  "projetos-descricao": "List of the projects carried out.",
+  "meu-github": "My GitHub",
+  "contato-titulo": "Contact",
+  "contato-descricao": "My means for eventual contact.",
+  "email": "E-mail:",
+  "telefone": "Phone:",
+  "links-importantes": "Important links"
+}
