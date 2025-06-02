@@ -180,3 +180,30 @@ a:hover {
     align-items: stretch;
   }
 }
+
+.profile-photo {
+  display: block;
+  margin: 0 auto 20px auto;
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid var(--text-color);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+.habilidades-lista {
+  list-style: none;
+  padding-left: 0;
+  font-size: 16px;
+}
+
+.habilidades-lista li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 8px;
+}
+
+.habilidades-lista i {
+  font-size: 20px;
+}
