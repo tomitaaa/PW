@@ -1,12 +1,12 @@
 document.addEventListener("DOMContentLoaded", (event) => {
-  document.body.setAttribute("data-theme", "light"); 
+  document.body.setAttribute("data-theme", "light");
   const themeButton = document.getElementById("btAlterarTema");
   const themeIcon = document.getElementById("theme-icon");
   const themeText = document.getElementById("theme-text");
 
-  themeIcon.classList.add("fa-moon"); 
+  themeIcon.classList.add("fa-moon");
   themeText.textContent = "Modo Escuro";
-  themeButton.classList.add("hover-dark"); 
+  themeButton.classList.add("hover-dark");
   themeButton.classList.remove("hover-light");
 });
 
@@ -60,14 +60,14 @@ function alterarTema() {
     document.body.setAttribute("data-theme", "dark");
     themeIcon.classList.remove("fa-moon");
     themeIcon.classList.add("fa-sun");
-    themeText.textContent = "Modo Claro"; 
+    themeText.textContent = "Modo Claro";
     themeButton.classList.remove("hover-dark");
     themeButton.classList.add("hover-light");
   } else {
     document.body.setAttribute("data-theme", "light");
     themeIcon.classList.remove("fa-sun");
     themeIcon.classList.add("fa-moon");
-    themeText.textContent = "Modo Escuro"; 
+    themeText.textContent = "Modo Escuro";
     themeButton.classList.remove("hover-light");
     themeButton.classList.add("hover-dark");
   }
