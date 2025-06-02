@@ -1,18 +1,40 @@
 {
   "sobre-titulo": "About",
   "sobre-quem-sou": "Who Am I?",
-  "sobre-descricao-inicial": "Hello, my name is Gabriel Tomita and I am a third-year student of the Software Engineering course at IFPR - Campus Paranavaí. <br>I created this portfolio to present my projects and skills as an activity for the Web Development course.</br>",
+  
+ 
+ 
+  "habilidades-titulo": "Skills",
+  "habilidades-descricao-principal": "I have experience in both Software and Hardware areas, having worked as a Web Developer on various projects with different uses and applications. I am an extremely calm and dedicated person, always willing to learn new technologies and their functionalities.",
+  
+  
+  "projetos-titulo": "Projects",
+  "projetos-descricao": "Small CRUD (Create, Read, Update, Delete) project using HTML, CSS, and JavaScript. The project consists of a registration form for people, cities, states, and products, allowing subsequent modifications of this data. It is also possible to make sales and list the data already registered in the system.",
+ 
+  "experiencias-titulo":"Experiences",  
+  "experiencias-descricao": "My professional experiences:",
+  "GC-1":" GrandChef System - Technical Support - February 2021 - May 2023 · (2 years 4 months)",
+  "GC-2":"Provided technical support, remote access, assistance in using the system, among other activities.",
+  "AP-1":"Ápice Sistemas - Web Developer - June 2023 - October 2023 · (5 months)",
+  "AP-2":"Development, maintenance, and support of web systems, primarily using React, React Native, Node.js, and MySQL.",
+  "Unespar-1":"Unespar - Paranavaí Campus – IT Technician – May 2024 – Present",
+  "Unespar-2":"Responsible for maintaining and repairing computers and the university’s network, providing support across all departments as needed. Assist faculty and students daily with various technical and technological demands involving computers, laptops, projectors, servers, and other equipment. Also responsible for setting up and configuring necessary equipment (sound system, sound mixer, computers, projectors, etc.) during events.",
+  
+
+  "educacao-titulo":"Education",
+   "sobre-descricao-inicial": "Hello, my name is Gabriel Tomita and I am a third-year student of the Software Engineering course at IFPR - Campus Paranavaí. <br>I created this portfolio to present my projects and skills as an activity for the Web Development course.</br>",
   "sobre-escolaridade-medio": "IFPR - Instituto Federal do Paraná - Technical in Computer Science integrated with High School",
   "sobre-escolaridade-superior": "IFPR - Instituto Federal do Paraná - Graduation in Software Engineering (in progress)",
-  "habilidades-titulo": "Skills",
-  "habilidades-descricao-principal": "Description of my main skills.",
-  "habilidades-lista": "I am a Software Engineering student with experience in web development, including HTML, CSS, and JavaScript. I have knowledge in Python and Java, as well as skills in SQL databases. I am always looking to learn new technologies and improve my skills.",
-  "projetos-titulo": "Projects",
-  "projetos-descricao": "List of the projects carried out.",
-  "meu-github": "My GitHub",
+  "escolaridade-adicional":"Additional Information:",
+  "escolaridade-adicional-1":"Participation in the III Robotics Fair in 2017 - 1st Place LEGO Line Follower",
+  "escolaridade-adicional-2":"Participation in the IV Robotics Fair in 2018 - 4th-5th Place LEGO Line Follower",
+  "escolaridade-adicional-3":"Participation in the VI Se²pin in 2017 - II Phase of the IFPR Robotics Olympiad - 1st Place LEGO Line Follower",
+  "escolaridade-adicional-4":"Participation in the VII Se²pin in 2018 - Presentation of Work as an Exhibitor",
+
   "contato-titulo": "Contact",
   "contato-descricao": "My means for eventual contact.",
   "email": "E-mail:",
-  "telefone": "Phone:",
-  "links-importantes": "Important links"
+  "telefone": "Phone:"
+ 
+
 }

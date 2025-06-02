@@ -2,17 +2,35 @@
   "sobre-titulo": "Sobre",
   "sobre-quem-sou": "Quem sou eu?",
   "sobre-descricao-inicial": "Olá, me chamo Gabriel Tomita e sou estudante do terceiro ano do curso de Engenharia Software no IFPR - Campus Paranavaí. <br>Criei esse portfólio para apresentar meus projetos e habilidades como atividade da matéria de Desenvolvimento Web.",
+
+  "habilidades-titulo": "Habilidades",
+  "habilidades-descricao-principal":"Possuo experiências nas áreas tanto de Softwares como de Hardwares,tendo trabalhado como Desenvolvedor Web em alguns projetos comdiferentes usos e aplicações. Sou uma pessoa extremamente calma e dedicada, sempre disposto a estar apredendo novas tecnlogias e sua funcionalidades." ,
+  
+  "projetos-titulo": "Projetos",
+  "projetos-descricao": "Pequeno projeto de CRUD (Create, Read, Update, Delete) utilizando HTML, CSS e JavaScript. O projeto consiste em um formulário de cadastro de pessoas, cidades, estados e produtos e podendo posteriormente alterar esses dados. Também é possível estar realizando vendas e fazendo uma listagem dos dados já cadastrados no sistema.",
+ 
+  "experiencias-titulo":"Experiências",
+  "experiencias-descricao": "Minhas experiencias profissionais:",
+  "GC-1":" Sistema GrandChef - Suporte Técnico - fevereiro de 2021 - maio de 2023 · (2 anos 4 meses)",
+  "GC-2":"Prestar suporte tecnico, acesso remoto, auxilio no uso do sistema, entre outras atividades",
+  "AP-1":"Ápice Sistemas - Desenvolvedor Web - junho de 2023 - outubro de 2023 · (5 meses)",
+  "AP-2":"Desenvolvimento, manutenção, e suporte de sistemas web, utilizando principalmente react, react-native, node.js, e mysql. ",
+  "Unespar-1":"Unespar - Universidade Estadual do Paraná - Técnico em T.I - maio de 2024 - atualmente",
+  "Unespar-2":"Manutenção e reparo em máquinas e na rede da Universidade,atuando em todos os setores que forem necessários. Auxiliando diariamente docentes e discentes nas variadas demandas técnicase tecnológicas que forem necessárias, em computadores,notebooks, projetores, servidores e demais situações. Além de em dias de eventos, ficar responsável pela instalação econfiguração dos equipamentos necessários (som, mesa de som,computador, projeção etc).",
+
+  "educacao-titulo":"Escolaridade",
   "sobre-escolaridade-medio": "IFPR - Instituto Federal do Paraná - Técnico em Informática integrado ao Ensino Médio",
   "sobre-escolaridade-superior": "IFPR - Instituto Federal do Paraná - Graduação em Engenharia de Software (em andamento)",
-  "habilidades-titulo": "Habilidades",
-  "habilidades-descricao-principal": "Descrição das minhas principais habilidades.",
-  "habilidades-lista": "Sou um estudante de Engenharia de Software com experiência em desenvolvimento web, incluindo HTML, CSS e JavaScript. Tenho conhecimento em Python e Java, além de habilidades em banco de dados SQL. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.",
-  "projetos-titulo": "Projetos",
-  "projetos-descricao": "Lista dos projetos realizados.",
-  "meu-github": "Meu GitHub",
+  "escolaridade-adicional":"Informaçõoes adicionais:",
+  "escolaridade-adicional-1":"Participação no III Salão da Robótica de 2017 - 1º Lugar LEGO Seguidor de Linha",
+  "escolaridade-adicional-2":"Particpação no IV Salão da Robótica de 2018 - 4º-5º Lugar LEGO Seguidor de Linha",
+  "escolaridade-adicional-3":"Participação no VI Se²pin de 2017 - II Fase Olímpiada de Robótica IFPR - 1º Lugar LEGO Seguidor de Linha",
+  "escolaridade-adicional-4":"Participação no VII Se²pin de 2018 - Apresentação de Trabalho como Expositor",
+
   "contato-titulo": "Contato",
   "contato-descricao": "Meus meios para eventual contato.",
   "email": "E-mail:",
-  "telefone": "Telefone:",
-  "links-importantes": "Links importantes"
+  "telefone": "Telefone:"
+  
+  
 }
